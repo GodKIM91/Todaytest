@@ -13,3 +13,5 @@ def square(m)
 end
 
 puts "Square of 5 is #{square(5)}"
+
+#какие-то изменения
