@@ -1,7 +1,11 @@
 puts "Hello World"
 
-def one(a, b)
-    puts "sum = #{a+b}"
+def fact(n)
+    if n==1
+        1
+    else
+    n*fact(n-1)
+    end
 end
 
-one(2, 5)
+puts fact(5)
