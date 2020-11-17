@@ -1,1 +1,7 @@
 puts "Hello World"
+
+def one(a, b)
+    puts "sum = #{a+b}"
+end
+
+one(2, 5)
