@@ -6,4 +6,10 @@ def fact(n)
     end
 end
 
-puts fact(5)
+puts "Factorial of 5 is #{fact(5)}"
+
+def square(m)
+    m*m
+end
+
+puts "Square of 5 is #{square(5)}"
