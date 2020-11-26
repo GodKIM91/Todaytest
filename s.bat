@@ -1,1 +1,1 @@
-call ruby SomeApp.arb
+call ruby demo.rb
