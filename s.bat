@@ -1,1 +1,1 @@
-call ruby demo.rb
+call ruby 04_rest_client.rb
